@@ -1,7 +1,6 @@
 # 🏆 ML-Spark: Smart Procurement & Delivery Delay Optimization
 
 <div align="center">
-  <h3>Top 1% Hackathon Solution</h3>
   <p>Moving from simplistic delay prediction to <b>Expected Value Optimization</b> for global logistics.</p>
 </div>
 
